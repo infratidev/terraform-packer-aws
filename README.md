@@ -26,6 +26,10 @@
 * aws_access_key_id e aws_secret_access_key geradas.
 * Estrutura para remote state criada. Link para provisionar a estrutura: [Estrutura Remote State](https://github.com/infratidev/terraform-aws/tree/main/07-remote-state-packer-aws)
 
+### Working DIR
+
+Estrutura criada para execução do script ```terraform-packer-aws.sh``` dentro da pasta ```scripts```
+
 ### Provisionamento
 
 ```./terraform-packer-aws.sh all```
